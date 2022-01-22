@@ -36,6 +36,7 @@ ui맞는 뒷단 구성도 그리기
 역할분담(자료조사 개념...)
 
 --------0107수정본 ---------
+01-22 발표내용
 ![1](https://user-images.githubusercontent.com/89236248/150468513-f9276e3f-9e56-42df-847e-6c2f900090b0.PNG)
 ![2](https://user-images.githubusercontent.com/89236248/150469114-d29435b6-b898-4391-a5b4-c9ed66688220.PNG)
 ![3](https://user-images.githubusercontent.com/89236248/150469115-4fd4685d-cac8-4fcd-ac89-9e87c3383134.PNG)
